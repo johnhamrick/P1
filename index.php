@@ -7,6 +7,10 @@
 	
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
+	<link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.5.0/pure-min.css">
+
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
 	<link rel='stylesheet' href='//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css' type='text/css'>
 	<link href="//netdna.bootstrapcdn.com/bootswatch/3.1.1/flatly/bootstrap.min.css" rel="stylesheet">
 	
@@ -40,22 +44,24 @@
 		<h1>John Hamrick <br> Dynamic Web Apps Portfolio</h1>
 		<p><img src="John5.jpg" width="228" height="372" alt=""/></p>
 		
+       	<h3>Project 2</h3>
+       	<a href="#" style="background-color: #1223DB; border-radius; 5px; color: #fff; padding: 5px 10px 5px 10px; text-decoration: none; text-shadow: 0px 2px 2px #3a5606;">View</a>
         
-		<h3>Project 2 Title</h3>
-		View: [link]
-		Github: [https://github.com/johnhamrick/P2.git]
+        <a href="#" style="background-color: #1223DB; border-radius; 5px; color: #fff; padding: 5px 10px 5px 10px; text-decoration: none; text-shadow: 0px 2px 2px #3a5606;">Github</a>
 		
-		<h3>Project 3 Title</h3>
-		View: [link]
-		Github: [https://github.com/johnhamrick/P3.git]
+        <br><br>
+		<h3>Project 3</h3>
+		       	<a href="#" style="background-color: #1223DB; border-radius; 5px; color: #fff; padding: 5px 10px 5px 10px; text-decoration: none; text-shadow: 0px 2px 2px #3a5606;">View</a>
+        
+        <a href="#" style="background-color: #1223DB; border-radius; 5px; color: #fff; padding: 5px 10px 5px 10px; text-decoration: none; text-shadow: 0px 2px 2px #3a5606;">Github</a>
 		
-		<h3>Project 4 Title</h3>
-		View: [link]
-		Github: [https://github.com/johnhamrick/P4.git]
-
-
+        <br><br>
+		<h3>Project 4</h3>
+		       	<a href="#" style="background-color: #1223DB; border-radius; 5px; color: #fff; padding: 5px 10px 5px 10px; text-decoration: none; text-shadow: 0px 2px 2px #3a5606;">View</a>
+        
+        <a href="#" style="background-color: #1223DB; border-radius; 5px; color: #fff; padding: 5px 10px 5px 10px; text-decoration: none; text-shadow: 0px 2px 2px #3a5606;">Github</a>
 		
-		
+        <br><br>
 		
 		
 		<h2>In 2+ sentences describe who you are and what you do.</h2>
