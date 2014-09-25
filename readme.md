@@ -2,7 +2,7 @@
 John Hamrick
 CSCI E-15 README file for Project 1
 
-The live URL of the project is:
+The live URL of the project is:  P1.hamrickjohn.me
 
 
 This project establishes and tests the infrastructure required for the remaining 3 projects in the course.  Project 1 teaches us the steps and pieces required to publish server-side web applications.
