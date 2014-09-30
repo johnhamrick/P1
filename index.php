@@ -41,7 +41,7 @@
 	<div class="container">
 	
 		<h1>John Hamrick <br> Dynamic Web Apps Portfolio</h1>
-		<p><img src="John5.jpg" width="228" height="340" alt=""/></p>
+		<p><img src="John5.jpg" width="228" height="343" alt=""/></p>
 		
        	<h3>Project 2</h3>
        	<a href="#" style="background-color: #1223DB; border-radius; 5px; color: #fff; padding: 5px 10px 5px 10px; text-decoration: none; text-shadow: 0px 2px 2px #3a5606;">View</a>
