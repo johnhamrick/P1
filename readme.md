@@ -11,4 +11,4 @@ There is no demo of Project 1.
 
 There are no test credentials for this project.
 
-The site was patterned after the example site provided in the course syllabus and was only modified with my personal information.
+The site was patterned after the example site provided in the course syllabus and modified with my personal information.
