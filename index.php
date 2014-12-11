@@ -51,7 +51,7 @@
 		
         <br><br>
 		<h3>Project 4</h3>
-		<a href="http://laravel.com" style="background-color: #1223DB; border-radius; 5px; color: #fff; padding: 5px 10px 5px 10px; text-decoration: none; text-shadow: 0px 2px 2px #3a5606;">View</a>
+		<a href="http://p4.hamrickjohn.me/" style="background-color: #1223DB; border-radius; 5px; color: #fff; padding: 5px 10px 5px 10px; text-decoration: none; text-shadow: 0px 2px 2px #3a5606;">View</a>
         <a href="https://github.com/johnhamrick/P4" style="background-color: #1223DB; border-radius; 5px; color: #fff; padding: 5px 10px 5px 10px; text-decoration: none; text-shadow: 0px 2px 2px #3a5606;">Github</a>
 		
         <br><br>
